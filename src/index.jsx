@@ -11,7 +11,6 @@ import thunk from 'redux-thunk';
         todos: [],
         loading: false
     }
-        
     
 
    

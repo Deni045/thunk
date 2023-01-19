@@ -16,7 +16,7 @@ function App() {
 
   return (
     <div>
-      {loading ? 'loading...' : (
+      {loading ? 'loading....' : (
 
          todos.map(item =>{
         return (
